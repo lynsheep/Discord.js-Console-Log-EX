@@ -1,2 +1,2 @@
 # Discord.js-Console-Log-EX
-Example of a console long command in JavaScript using Discord.js
+Example of a console log command in JavaScript using Discord.js
