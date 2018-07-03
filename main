@@ -1,0 +1,7 @@
+
+    console.log(`${bot.user.username} is online on ${bot.guilds.size} servers! Anything goes here you want printed in console.
+
+                                                                                                                                                                                                       
+ `);
+    bot.user.setActivity("Anything here as well", {type: "LISTENING"});
+  });
